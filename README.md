@@ -24,8 +24,6 @@
    the last creativity point that I saw in my project, I call it “No-stereotyped study model”. I have created the learning environment that might encourage the kids gain the basic knowledge for themselves through finding the answers (which in name quiz and the hidden date, month).   Furthermore, the realistic animation and interesting icon for its status might help them to recognize and remember what they learn and could use it in the similar situation.	
 
 # Coding Concepts:
-
-   The project is accurately built base on standards of required coding concepts of assignment 2 and 3:
 	
    - Functions: The program contains 6 different function for animation displaying: 3 kinds of weather, as well as 2 for weathers status icon and 1 for day and month.
    
@@ -56,7 +54,7 @@
    - Array: There are 3 arrays used in this program which create the falling snowy function, and the random weather and status in the display screen.
 	
 # Overall System:
-   In the beginning, the program takes the input of datetime and weather conditions of the day (from input or other applications or randomized it) and begin sorting data and creating dataset:
+   In the beginning, the program takes the input of datetime and weather conditions of the day (from input or other applications or randomized one) and begin sorting data and creating dataset:
    
 	•	Day and month: From today’s day and month, store in “day” and “month” variables.
 	•	Weather: From weather forecast, categorize it into 1 of 3 basic weathers: sunny, cloudy, snowy and store in variable “weather”.
