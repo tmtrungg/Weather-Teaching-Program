@@ -63,6 +63,7 @@
 	•	Recognizing weather status, categorize it into 1 of 2 basic status: safe and dangerous and store in variable “status”.
 	
    The collecting step repeat every day to renew the display and update daily information to the user. After scanning and determined those variables, the program will process to display 4 separate different objects after the user click “Start” in the beginning screen:
+   
 		1.	The orange calendar in the top left corner, which user can interact with by clicking and hold the mouse click on it in order to fade the theme colour, reveal the day and month information of that day (input and processed from “day” and “month” variable).
 		2.	The twinkling icon in the top right corner, depends on variable “status” will display one of these 2:
 			- The tick icon that twinkling in green and white if the status is “safe”.
