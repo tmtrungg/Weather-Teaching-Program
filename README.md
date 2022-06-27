@@ -1,6 +1,6 @@
 # Weather Teaching Program
 
-_10/05/2019_
+_Completed in 10/05/2019_
 
 ## 1. Product Summary:
 
