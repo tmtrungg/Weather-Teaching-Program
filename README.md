@@ -1,5 +1,3 @@
-# WeatherTeachingProgram
-
 # Product Summary:
 
    In my perspective, technologies and programs are born to help people, especially the unlucky ones. For this assignment 2 creative project, I first came up with an idea to help handicapped children in improving their social ability through using my program. After that, I’ve done a small research about how deaf children can learn to read and recognize the letters without hearing or knowing it’s pronunciations (research link listed in my references), and then I found out that they have to remember all of words with letters order and structure that match with every new words they learn.
@@ -39,21 +37,21 @@
 
 
    - Object creation: The final display screen contains 4 different objects run separately:  
-	i.	Calendar on the top right corner which can reveal day and month when user hold the mouse click in it.
-	ii.	Twinkling weather status in the top left which inform about safety level of the weather (2 different types, which appearance depends on the input).
-	iii.	Weather animation displaying effect (4 different weather types, which appearance depends on the input).
-	iv.	Multiple choices box for guessing the correct name with spelling effect.    
+		1.	Calendar on the top right corner which can reveal day and month when user hold the mouse click in it.
+		2.	Twinkling weather status in the top left which inform about safety level of the weather (2 different types, which appearance depends on the input).
+		3.	Weather animation displaying effect (4 different weather types, which appearance depends on the input).
+		4.	Multiple choices box for guessing the correct name with spelling effect.    
  
    - User interaction: Three kinds of interactions are included:
-	i.	Two boxes of choice for the correct weather name, which contains a different effect for each.
-	ii.	Weather name spelling, which appear at the centre of the screen when user click and hold the mouse click on the correct name box.
-	iii.	Day and month reveal, which faded the calendar background to white when user click and hold the mouse click on it, reveal the day and month information.
+		1.	Two boxes of choice for the correct weather name, which contains a different effect for each.
+		2.	Weather name spelling, which appear at the centre of the screen when user click and hold the mouse click on the correct name box.
+		3.	Day and month reveal, which faded the calendar background to white when user click and hold the mouse click on it, reveal the day and month information.
 
    - Branching code: Branching codes are used in resetting the rain and snow when it touches the ground (making the continuous effects) and executed in the weather name box and calendar which pop up different visual effects when user hold the mouse click in. Branching codes are also used in loops and if code for twinkling speed control
 
    - Interaction between objects: There are 2 interaction between the objects in the final display screen:
-	i.	Pop up the spelling of weather’s name when user hold the click button in the box of correct weather name box.
-	ii.	Weather colour appears in the animation effect right after user click on the correct weather name box.
+		1.	Pop up the spelling of weather’s name when user hold the click button in the box of correct weather name box.
+		2.	Weather colour appears in the animation effect right after user click on the correct weather name box.
 
    - Array: There are 3 arrays used in this program which create the falling snowy function, and the random weather and status in the display screen.
 	
