@@ -52,6 +52,8 @@ _Completed in 10/05/2019_
    - Interaction between objects: There are 2 interaction between the objects in the final display screen:
 		1.	Pop up the spelling of weather’s name when user hold the click button in the box of correct weather name box.
 		2.	Weather colour appears in the animation effect right after user click on the correct weather name box.
+		
+	![alt text](https://github.com/tmtrungg/Weather-Teaching-Program/blob/main/demo/demo.png?raw=true)
 
    - Array: There are 3 arrays used in this program which create the falling snowy function, and the random weather and status in the display screen.
 	
