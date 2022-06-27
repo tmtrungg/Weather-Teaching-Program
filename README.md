@@ -1,6 +1,6 @@
 # WeatherTeachingProgram
 
-**Product Summary:**
+#Product Summary:
 
 	In my perspective, technologies and programs are born to help people, especially the unlucky ones. For this assignment 2 creative project, I first came up with an idea to help handicapped children in improving their social ability through using my program. After that, I’ve done a small research about how deaf children can learn to read and recognize the letters without hearing or knowing it’s pronunciations (research link listed in my references), and then I found out that they have to remember all of words with letters order and structure that match with every new words they learn.
 
@@ -9,15 +9,15 @@
 	In order to combine and develop all of the ideas, I decide to orient my creative project into the direction of “ Display forecasted weather and word teaching for hearing impaired “which contain two main purposes: Not only informing today’s weather forecast by displaying in drawings and animations but also serving educational purposes in teaching and helping hearing impaired child to remember the words within the range of concepts in date and weather. I hope this project can be as effective and innovative as possible and brings some meaningful helps to the community.
 
 
-**Product Purpose**
+# Product Purpose
 
-**Target Audience:**
+## Target Audience:
 
 	As the beginning target of this project, this creative program’s main purpose is to help hearing impaired children in experiencing a better platform to learn about words structures and spellings more effectively with the concept of weather and date, month. Besides, the other primary goal of “Display forecasted weather and word teaching for hearing impaired” is providing a “ basic weather dictionary” for every children to build mental knowledge in recognizing weather and get used to rules of date time (such as how many days for each month, months names and orders) after day by day using the program as an entertaining multiple choices name quiz.
 	
 	Furthermore, with the combination of practical reconstruct animation that base on real life weather and different entertaining features which set up for educational purposes, I believe that the project can be widely used in school environment, hospital and also in family life between parents and child if it can be developed in the right way and constantly updated through the times.
 	
-**Project Creativity: **
+## Project Creativity:
 
 	Planning for this project, I found myself created several new unique aspects to the program. First, the program is created by the smooth combination between what I have learn in school (drawing and making animations) and educational ethical purposes. Creating a program to help life and learning way easier was not an extremely hard project but it brings a big ethical meaning to the society.
 	
@@ -25,7 +25,7 @@
 
 	The last creativity point that I saw in my project, I call it “No-stereotyped study model”. I have created the learning environment that might encourage the kids gain the basic knowledge for themselves through finding the answers (which in name quiz and the hidden date, month).   Furthermore, the realistic animation and interesting icon for its status might help them to recognize and remember what they learn and could use it in the similar situation.	
 
-**Coding Concepts:**
+# Coding Concepts:
 
 	The project is accurately built base on standards of required coding concepts of assignment 2 and 3:
 	
@@ -57,7 +57,7 @@
 
 	o	 Array: There are 3 arrays used in this program which create the falling snowy function, and the random weather and status in the display screen.
 	
-**Overall System:**
+# Overall System:
 
 	In the beginning, the program takes the input of datetime and weather conditions of the day (from input or other applications or randomized it) and begin sorting data and creating dataset:
 	•	Day and month: From today’s day and month, store in “day” and “month” variables.
