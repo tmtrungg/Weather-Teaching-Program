@@ -56,8 +56,8 @@
    - Array: There are 3 arrays used in this program which create the falling snowy function, and the random weather and status in the display screen.
 	
 # Overall System:
-
    In the beginning, the program takes the input of datetime and weather conditions of the day (from input or other applications or randomized it) and begin sorting data and creating dataset:
+   
 	•	Day and month: From today’s day and month, store in “day” and “month” variables.
 	•	Weather: From weather forecast, categorize it into 1 of 3 basic weathers: sunny, cloudy, snowy and store in variable “weather”.
 	•	Recognizing weather status, categorize it into 1 of 2 basic status: safe and dangerous and store in variable “status”.
