@@ -8,24 +8,10 @@ _Completed in 10/05/2019_
  
    In order to combine and develop all of the ideas, I decide to orient my creative project into the direction of “ Display forecasted weather and word teaching for hearing impaired “which contain two main purposes: Not only informing today’s weather forecast by displaying in drawings and animations but also serving educational purposes in teaching and helping hearing impaired child to remember the words within the range of concepts in date and weather. I hope this project can be as effective and innovative as possible and brings some meaningful helps to the community.
 
+![alt text](https://github.com/tmtrungg/Weather-Teaching-Program/blob/main/demo/demo.png?raw=true)
+_(Screenshot of the actual game play)_
 
-## 2. Product Purpose
-
-### Target Audience:
-
-   As the beginning target of this project, this creative program’s main purpose is to help hearing impaired children in experiencing a better platform to learn about words structures and spellings more effectively with the concept of weather and date, month. Besides, the other primary goal of “Display forecasted weather and word teaching for hearing impaired” is providing a “ basic weather dictionary” for every children to build mental knowledge in recognizing weather and get used to rules of date time (such as how many days for each month, months names and orders) after day by day using the program as an entertaining multiple choices name quiz.
-	
-   Furthermore, with the combination of practical reconstruct animation that base on real life weather and different entertaining features which set up for educational purposes, I believe that the project can be widely used in school environment, hospital and also in family life between parents and child if it can be developed in the right way and constantly updated through the times.
-	
-### Project Creativity:
-
-   Planning for this project, I found myself created several new unique aspects to the program. First, the program is created by the smooth combination between what I have learn in school (drawing and making animations) and educational ethical purposes. Creating a program to help life and learning way easier was not an extremely hard project but it brings a big ethical meaning to the society.
-	
-   Secondly, the factor that make my program has a unique aspect is the multifunction feature which can perform in teaching, weather forecasting, games and technology calendar. Because of the program contains numerous of object that not only support each other but also can separate individually to form a solo function.
-
-   the last creativity point that I saw in my project, I call it “No-stereotyped study model”. I have created the learning environment that might encourage the kids gain the basic knowledge for themselves through finding the answers (which in name quiz and the hidden date, month).   Furthermore, the realistic animation and interesting icon for its status might help them to recognize and remember what they learn and could use it in the similar situation.	
-
-## 3. Coding Concepts:
+## Coding Concepts:
 	
    - Functions: The program contains 6 different function for animation displaying: 3 kinds of weather, as well as 2 for weathers status icon and 1 for day and month.
    
@@ -53,7 +39,6 @@ _Completed in 10/05/2019_
 		1.	Pop up the spelling of weather’s name when user hold the click button in the box of correct weather name box.
 		2.	Weather colour appears in the animation effect right after user click on the correct weather name box.
 		
-![alt text](https://github.com/tmtrungg/Weather-Teaching-Program/blob/main/demo/demo.png?raw=true)
 
    - Array: There are 3 arrays used in this program which create the falling snowy function, and the random weather and status in the display screen.
 	
